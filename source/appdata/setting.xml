@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Setting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <visitor>6</visitor>
+  <text1>welcome</text1>
+  <text2>welcome admin</text2>
+  <dFooter>this is footer</dFooter>
+  <Header>this is header</Header>
+</Setting>

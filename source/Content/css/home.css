@@ -1,0 +1,31 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../../image/back.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 420px;
+    
+    padding: 80px 40px;
+   
+   
+}
+
+.text2 {
+    position: relative;
+    top: 40%;
+    left: 40%;
+    margin-right:10px;
+    font-family: 'Goudy Old Style';
+    font-size: 30px;
+    color: linen;
+    text-align: center;
+}

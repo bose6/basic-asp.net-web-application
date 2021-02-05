@@ -1,0 +1,58 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('/image/back.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.control {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 420px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    background:rgba(0,0,0,0.2);
+}
+
+.lbltxt1, .lbltxt2, .lblheader, .lblfooter {
+    font-weight: bold;
+    color: white;
+}
+
+.tboxtxt1, .tboxtxt2, .tboxheader, .tboxfooter {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.tboxtxt1, .tboxtxt2, .tboxheader, .tboxfooter {
+    border: none;
+    border-bottom: 3px solid #ffff;
+    outline: none;
+    height: 40px;
+    color:whitesmoke;
+    font-size: 16px;
+    background-color: transparent;
+}
+
+ 
+
+.btnchange {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    position:absolute;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    background-color: dodgerblue;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+    margin-left: 105px;
+    margin-top: 0px;
+}

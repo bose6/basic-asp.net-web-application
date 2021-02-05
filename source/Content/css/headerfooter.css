@@ -1,0 +1,46 @@
+﻿body {
+  
+}
+
+header {
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-left:600px;
+    margin-top:5px;
+    top: 5px;
+}
+footer {
+    position: absolute;
+    bottom: -100px;
+    margin-bottom:auto;
+    margin-left:0;
+    width: 102%;
+    height: 40px; /* Height of the footer */
+    background: #333333;
+    color:azure;
+    text-align:center;
+}
+.btnlogout {
+    position: relative;
+    margin-left: 600px;
+    border-radius: 20px;
+    border-color: black;
+    border-width: medium;
+    color: white;
+    background-color: rgb(0,0,0);
+    transition: .3s ease-in-out;
+}
+.logo{
+    position:absolute;
+    margin-left:-70px;
+    height:45px;
+    width:45px;
+    margin-top:-10px;
+
+}
+.link{
+    margin-left:-20px;
+    
+
+}
