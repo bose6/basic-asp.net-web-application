@@ -1,0 +1,2 @@
+ ASP.NET Website with Three Pages Default.aspx , Login.aspx , Admin.aspx . All the
+settings needs to be saved either to the ASP.NET web.config file or to an xml file.
